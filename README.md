@@ -21,7 +21,7 @@ To use this encryption tool, follow these steps:
 1. Clone the repository:
     ```sh
     git clone https://github.com/Nawin-Cyber-10/Message_Encryption_Simulator
-    cd encryption
+    cd Message_Encryption_Simulator
     ```
 
 2. Install the required dependencies:
